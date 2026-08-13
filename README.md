@@ -1,7 +1,7 @@
 # The two files correspond to an information stream video containing an information page and an information stream video containing graphs and charts, respectively.
 Before use, please check the security of the resources in the compressed package before deploying the necessary environment and tools, such as ffmpeg. It is recommended to forward this directly to your model and let your intelligent agent handle the deployment for you.
 ----------------------------------------------------------------------------------------------------------------------------------------------------
-# XinXiLiu Information page sample
+# XinXiLiu skill Information page sample
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 # Hook page
 <img width="1672" height="941" alt="32d7ca96-b330-4e28-b81e-48668955e2cb" src="https://github.com/user-attachments/assets/5498b72d-cf01-49a7-a41d-abc1af91bb4a" />
@@ -19,7 +19,7 @@ Before use, please check the security of the resources in the compressed package
 <img width="1672" height="941" alt="5350b29c-6085-49c3-a51f-7b7d245b6ac6" src="https://github.com/user-attachments/assets/969b29b3-6195-469d-9c0b-8a45d0f669d1" />
 # Curve graph table page
 <img width="1672" height="941" alt="6df7cf05-3e0e-44f3-a09c-532dbcb357e0" src="https://github.com/user-attachments/assets/86c370e5-750c-4c1f-b92a-cf32345ba904" />
-# QuXian Curve icon example
+# QuXian skill Curve icon example
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 # Hook Page
 <img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/c766bf88-8e23-4067-a05f-15011cb38ea6" />
