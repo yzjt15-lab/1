@@ -1,3 +1,5 @@
+# If you're still struggling with AI agents not producing videos the way you want, then you might find these skills useful.
+----------------------------------------------------------------------------------------------------------------------------------------------------
 # The two files correspond to an information stream video containing an information page and an information stream video containing graphs and charts, respectively.
 Before use, please check the security of the resources in the compressed package, and then deploy the necessary environment and tools. It is recommended to forward this compressed package directly to your smart agent and let your smart agent handle the deployment.
 ----------------------------------------------------------------------------------------------------------------------------------------------------
