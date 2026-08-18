@@ -17,8 +17,7 @@ Before use, please check the security of the resources in the compressed package
 <img width="1672" height="941" alt="32d7ca96-b330-4e28-b81e-48668955e2cb" src="https://github.com/user-attachments/assets/5498b72d-cf01-49a7-a41d-abc1af91bb4a" />
 # Fact page
 <img width="1672" height="941" alt="53d9e80a-76ef-4a75-b9e0-39fbdbe288fd" src="https://github.com/user-attachments/assets/4fb79312-0315-4e78-b569-e2d402a0beee" />
-# Data page
-<img width="1672" height="941" alt="5350b29c-6085-49c3-a51f-7b7d245b6ac6" src="https://github.com/user-attachments/assets/995192ba-fc6b-4ab8-9813-e272b6de2adb" />
+
 # News page
 <img width="1672" height="941" alt="5ba7eef3-3192-4b9d-8cdf-1ef1c7920d4c" src="https://github.com/user-attachments/assets/7e64f08d-7f8c-4340-a99c-0c69d7421f67" />
 # Digital page
